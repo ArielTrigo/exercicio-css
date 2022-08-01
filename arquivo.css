@@ -1,0 +1,18 @@
+.texto01{
+    color:white;
+    background: blue;
+    height: 200px;
+
+}
+.rodape{
+    color:white;
+    background:black;
+    text-align: center;
+}
+.destaque01{
+    color:blue;
+}
+.lista01{
+    text-decoration: underline;
+
+}
